@@ -5,7 +5,7 @@
     "carbohydrates": "Carbohydrates: 23 grams",
     "protein": "Protein: 1.1 grams",
     "fat": "Fat: 0.3 grams",
-    "image": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+    "image": "https://raw.githubusercontent.com/Emirkanmaz/FoodCalories/master/JSONDataSet/muz.png"
   },
   {
     "name": "Oats",
@@ -13,7 +13,7 @@
     "carbohydrates": "Carbohydrates: 57.3 grams",
     "protein": "Protein: 11.3 grams",
     "fat": "Fat: 5.8 grams",
-    "image": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yulaf.png"
+    "image": "https://raw.githubusercontent.com/Emirkanmaz/FoodCalories/master/JSONDataSet/yulaf.png"
   },
   {
     "name": "Walnut",
@@ -21,7 +21,7 @@
     "carbohydrates": "Carbohydrates: 13.7 grams",
     "protein": "Protein: 15.2 grams",
     "fat": "Fat: 65.2 grams",
-    "image": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/ceviz.png"
+    "image": "https://raw.githubusercontent.com/Emirkanmaz/FoodCalories/master/JSONDataSet/ceviz.png"
   },
   {
     "name": "White Beans",
@@ -29,7 +29,7 @@
     "carbohydrates": "Carbohydrates: 22 grams",
     "protein": "Protein: 19 grams",
     "fat": "Fat: 6 grams",
-    "image": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/kurufasulye.png"
+    "image": "https://raw.githubusercontent.com/Emirkanmaz/FoodCalories/master/JSONDataSet/kurufasulye.png"
   },
   {
     "name": "Potato",
@@ -37,7 +37,7 @@
     "carbohydrates": "Carbohydrates: 17 grams",
     "protein": "Protein: 2 grams",
     "fat": "Fat: 0.1 grams",
-    "image": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/patates.png"
+    "image": "https://raw.githubusercontent.com/Emirkanmaz/FoodCalories/master/JSONDataSet/patates.png"
   },
   {
     "name": "Chicken Breast",
@@ -45,7 +45,7 @@
     "carbohydrates": "Carbohydrates: 0 grams",
     "protein": "Protein: 22.5 grams",
     "fat": "Fat: 2.6 grams",
-    "image": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/tavukgogus.png"
+    "image": "https://raw.githubusercontent.com/Emirkanmaz/FoodCalories/master/JSONDataSet/tavukgogus.png"
   },
   {
     "name": "Green Lentils",
@@ -53,7 +53,7 @@
     "carbohydrates": "Carbohydrates: 20 grams",
     "protein": "Protein: 9 grams",
     "fat": "Fat: 0.4 grams",
-    "image": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yesilmercimek.png"
+    "image": "https://raw.githubusercontent.com/Emirkanmaz/FoodCalories/master/JSONDataSet/yesilmercimek.png"
   },
   {
     "name": "Yogurt",
@@ -61,7 +61,7 @@
     "carbohydrates": "Carbohydrates: 4.5 grams",
     "protein": "Protein: 3 grams",
     "fat": "Fat: 3 grams",
-    "image": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yogurt.png"
+    "image": "https://raw.githubusercontent.com/Emirkanmaz/FoodCalories/master/JSONDataSet/yogurt.png"
   },
   {
     "name": "Almond",
@@ -69,7 +69,7 @@
     "carbohydrates": "Carbohydrates: 3.7 grams",
     "protein": "Protein: 18.7 grams",
     "fat": "Fat: 54.1 grams",
-    "image": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/badem.png"
+    "image": "https://raw.githubusercontent.com/Emirkanmaz/FoodCalories/master/JSONDataSet/badem.png"
   },
   {
     "name": "Apple",
@@ -77,6 +77,6 @@
     "carbohydrates": "Carbohydrates: 12.4 grams",
     "protein": "Protein: 0.2 grams",
     "fat": "Fat: 0.1 grams",
-    "image": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/elma.png"
+    "image": "https://raw.githubusercontent.com/Emirkanmaz/FoodCalories/master/JSONDataSet/elma.png"
   }
 ]
