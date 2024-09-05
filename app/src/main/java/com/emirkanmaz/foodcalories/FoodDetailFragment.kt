@@ -6,9 +6,10 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.emirkanmaz.foodcalories.databinding.FragmentFeedBinding
+import com.emirkanmaz.foodcalories.databinding.FragmentFoodDetailBinding
 
-class FeedFragment : Fragment() {
-    private var _binding: FragmentFeedBinding? = null
+class FoodDetailFragment : Fragment() {
+    private var _binding: FragmentFoodDetailBinding? = null
     private val binding get() = _binding!!
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -20,7 +21,7 @@ class FeedFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        _binding = FragmentFeedBinding.inflate(inflater, container, false)
+        _binding = FragmentFoodDetailBinding.inflate(inflater, container, false)
         val view = binding.root
         return view
     }
@@ -33,5 +34,4 @@ class FeedFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
-
 }

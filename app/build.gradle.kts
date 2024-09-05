@@ -67,6 +67,8 @@ dependencies {
     val glide_version = "4.16.0"
     implementation ("com.github.bumptech.glide:glide:$glide_version")
 
+    implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.2.0-alpha01")
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
