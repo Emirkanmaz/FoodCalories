@@ -42,6 +42,7 @@ android {
 
 dependencies {
 
+    implementation(libs.androidx.preference.ktx)
     val nav_version = "2.8.0"
     implementation("androidx.navigation:navigation-fragment:$nav_version")
     implementation("androidx.navigation:navigation-ui:$nav_version")
